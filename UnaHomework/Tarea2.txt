@@ -1,0 +1,1 @@
+Tarea 3: Quini 6. Realizar un juego en el que yo ingreso 6 números que se almacenan en una lista (función input()). Luego la computadora elije 6 números al azar entre 0 y 15 (establecer un control para asegurarnos de que no se repiten). Entonces la computadora me tiene que informar cuántos aciertos tuve de la manera que cada uno quiera, y cuáles fueron los números “ganadores”.
